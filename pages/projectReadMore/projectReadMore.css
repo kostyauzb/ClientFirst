@@ -1,0 +1,148 @@
+.post-body
+{
+    max-width: 1500px;
+    padding-top: 9rem;
+}
+.project-body-logo-titel
+{
+    color: var(--primary-text, #1D2130);
+font-size: 1.6rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2px;
+text-transform: uppercase;
+padding-left: 18rem ;
+position: relative;
+
+}
+.project-body-logo-titel::after
+{
+    content: "";
+    display: inline-block;
+    height: 2px;
+    background: var(--primary-text);
+    width: 7.2rem;
+    position: absolute;
+    left: 0;
+    top: 9px;
+    margin-left: 100px;
+}
+.post-logo-title
+{
+    color: var(--primary-text, #1D2130);
+    max-width: 83.2rem;
+font-size: 5.6rem;
+font-style: normal;
+font-weight: 700;
+line-height: 120%;
+
+}
+.post-body-logo
+{
+    padding-top: 3.2rem;
+padding-left: 19rem;
+}
+.post-logo-tit
+{
+    max-width: 83.2rem;
+    color: var(--secondary-text, #525560);
+font-size: 1.6rem;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; 
+margin-top: 3.2rem;
+}
+.post-logo-text-img
+{
+    width: 83.2rem;
+height: 32rem;
+border-radius:12px;
+margin-top: 3.2rem;
+}
+.some-text
+{
+    color: var(--primary-text, #1D2130);
+font-size: 4.8rem;
+font-style: normal;
+font-weight: 700;
+line-height: 120%;
+padding-top: 4.8rem;
+}
+.some-title
+{
+    color: var(--secondary-text, #525560);
+    max-width: 83.2rem;
+font-size: 1.6rem;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+padding-top: 1.6rem;
+}
+.post-logo-titles
+{
+    color: var(--primary-text, #1D2130);
+font-size: 1.6rem;
+font-style: normal;
+font-weight: 700;
+line-height: 160%;
+margin-top: 1.6rem;
+}
+.post-logo-text-end
+{
+    color: var(--secondary-text, #525560);
+    max-width: 83.2rem;
+font-size: 1.6rem;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+margin-top: 1.6rem; 
+}
+.bg
+{
+    margin-top: 9.6rem;
+    background: var(--off-white, #EBF0F9);
+}
+.iconca-qalam
+{
+    width: 32px;
+height: 32px;
+}
+.text-200
+{
+    color: var(--primary-text, #1D2130);
+font-size: 2.4rem;
+font-style: normal;
+max-width: 30rem;
+max-height: 3.8rem;
+}
+.text-bg
+{
+    display: flex;
+    gap: 2rem;
+    padding: 9.6rem;
+}
+.title-p
+{
+    color: var(--secondary-text, #525560);
+    max-width: 43.6rem;
+font-size: 1.6rem;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+padding-top: 8px;
+
+}
+.cart-bg
+{
+    display: flex;
+}
+.cart-bg-tu
+{
+    display: flex;
+    margin-top: -100px;
+}
+.cta__container
+{
+    margin-bottom: 9.6rem;
+}

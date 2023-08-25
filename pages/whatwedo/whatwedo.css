@@ -1,0 +1,21 @@
+.project-tit {
+  text-align: center;
+  position: relative;
+}
+
+.project-tit::after {
+  position: absolute;
+  content: "";
+  display: inline-block;
+  height: 2px;
+  background: white;
+  width: 7.2rem;
+  left: 0;
+  top: 0px;
+}
+
+.project-ttle {
+  max-width: 70rem;
+  margin-left: 330px;
+  text-align: center;
+}
